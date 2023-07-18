@@ -1,1 +1,7 @@
+input_folder/
 metadata.tsv
+Untitled*
+*docx
+*xlsx
+.ipynb_checkpoints/
+.~lock.*#
